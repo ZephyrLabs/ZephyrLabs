@@ -1,8 +1,10 @@
 ## Hi there 👋
 ### I'm ZephyrLabs, aka Electr1, and Electr0lyte
-#### I am a beginner to coding and work on various projects that spark my interests, I have no one particular interest and am at many moments, all over the place 🙃 
+#### I'm a hardware and embedded enthusiast with a keen interest on everything from the smallest microcontroller to handheld devices
+
 
 #### reach me out on twitter by tagging @SravanSenthiln1
+#### Website: [Here!](https://zephyrlabs.github.io)
 #### Kudos! 
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyrLabs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5)
