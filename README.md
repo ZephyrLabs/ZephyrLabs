@@ -35,4 +35,7 @@
 ![programming lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrlabs&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Currently Working on:
-* SIMD Intrinsics with x86-AVX and ARM-Neon for computational acceleration
+* Embedded Firmware development
+* Computational acceleration with hardware
+etc.
+
